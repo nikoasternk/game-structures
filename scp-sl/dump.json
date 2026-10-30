@@ -2973,17 +2973,21 @@
         "Offset": "0x0"
       },
       {
-        "FieldName": "<>9__34_1",
+        "FieldName": "<>9__5_0",
         "Offset": "0x8"
       },
       {
-        "FieldName": "<>9__34_0",
+        "FieldName": "<>9__36_1",
         "Offset": "0x10"
+      },
+      {
+        "FieldName": "<>9__36_0",
+        "Offset": "0x18"
       }
     ]
   },
   {
-    "TypeName": "PlayerEffectsController.<>c__DisplayClass25_0<T>",
+    "TypeName": "PlayerEffectsController.<>c__DisplayClass27_0<T>",
     "Fields": [
       {
         "FieldName": "index",
@@ -103391,15 +103395,15 @@
       },
       {
         "FieldName": "<TargetHolidays>k__BackingField",
-        "Offset": "0x160"
-      },
-      {
-        "FieldName": "_baseSettings",
         "Offset": "0x168"
       },
       {
+        "FieldName": "_baseSettings",
+        "Offset": "0x170"
+      },
+      {
         "FieldName": "_cookedSettings",
-        "Offset": "0x18C"
+        "Offset": "0x194"
       }
     ]
   },
@@ -104029,112 +104033,116 @@
         "Offset": "0x80"
       },
       {
-        "FieldName": "Projectile",
+        "FieldName": "<BeginThrowRateLimiter>k__BackingField",
         "Offset": "0x88"
       },
       {
-        "FieldName": "Phantom",
+        "FieldName": "Projectile",
         "Offset": "0x90"
       },
       {
-        "FieldName": "WeakThrowSettings",
+        "FieldName": "Phantom",
         "Offset": "0x98"
       },
       {
+        "FieldName": "WeakThrowSettings",
+        "Offset": "0xA0"
+      },
+      {
         "FieldName": "FullThrowSettings",
-        "Offset": "0xBC"
+        "Offset": "0xC4"
       },
       {
         "FieldName": "ThrowingAnimTime",
-        "Offset": "0xE0"
-      },
-      {
-        "FieldName": "CancelAnimTime",
-        "Offset": "0xE4"
-      },
-      {
-        "FieldName": "ThrowClip",
         "Offset": "0xE8"
       },
       {
-        "FieldName": "BeginClip",
+        "FieldName": "CancelAnimTime",
+        "Offset": "0xEC"
+      },
+      {
+        "FieldName": "ThrowClip",
         "Offset": "0xF0"
       },
       {
-        "FieldName": "CancelClip",
+        "FieldName": "BeginClip",
         "Offset": "0xF8"
       },
       {
-        "FieldName": "OnRequestSent",
+        "FieldName": "CancelClip",
         "Offset": "0x100"
       },
       {
-        "FieldName": "ThrowStopwatch",
+        "FieldName": "OnRequestSent",
         "Offset": "0x108"
       },
       {
-        "FieldName": "CancelStopwatch",
+        "FieldName": "ThrowStopwatch",
         "Offset": "0x110"
       },
       {
-        "FieldName": "_weight",
+        "FieldName": "CancelStopwatch",
         "Offset": "0x118"
       },
       {
-        "FieldName": "_pinPullTime",
-        "Offset": "0x11C"
-      },
-      {
-        "FieldName": "_postThrownAnimationTime",
+        "FieldName": "_weight",
         "Offset": "0x120"
       },
       {
-        "FieldName": "_repickupable",
+        "FieldName": "_pinPullTime",
         "Offset": "0x124"
       },
       {
-        "FieldName": "_destroyTime",
+        "FieldName": "_postThrownAnimationTime",
         "Offset": "0x128"
       },
       {
-        "FieldName": "_tryFire",
+        "FieldName": "_repickupable",
         "Offset": "0x12C"
       },
       {
-        "FieldName": "_alreadyFired",
-        "Offset": "0x12D"
-      },
-      {
-        "FieldName": "_fireWeak",
-        "Offset": "0x12E"
-      },
-      {
-        "FieldName": "_phantomPropelled",
-        "Offset": "0x12F"
-      },
-      {
-        "FieldName": "_messageSent",
+        "FieldName": "_destroyTime",
         "Offset": "0x130"
       },
       {
-        "FieldName": "_primaryKey",
+        "FieldName": "_tryFire",
         "Offset": "0x134"
       },
       {
-        "FieldName": "_secondaryKey",
+        "FieldName": "_alreadyFired",
+        "Offset": "0x135"
+      },
+      {
+        "FieldName": "_fireWeak",
+        "Offset": "0x136"
+      },
+      {
+        "FieldName": "_phantomPropelled",
+        "Offset": "0x137"
+      },
+      {
+        "FieldName": "_messageSent",
         "Offset": "0x138"
       },
       {
-        "FieldName": "_phantom",
+        "FieldName": "_primaryKey",
+        "Offset": "0x13C"
+      },
+      {
+        "FieldName": "_secondaryKey",
         "Offset": "0x140"
       },
       {
-        "FieldName": "_releaseSpeed",
+        "FieldName": "_phantom",
         "Offset": "0x148"
       },
       {
+        "FieldName": "_releaseSpeed",
+        "Offset": "0x150"
+      },
+      {
         "FieldName": "_scp1853",
-        "Offset": "0x158"
+        "Offset": "0x160"
       },
       {
         "FieldName": "ServerTimeTolerance",
